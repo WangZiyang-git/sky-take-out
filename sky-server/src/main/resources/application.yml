@@ -48,9 +48,9 @@ sky:
 
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
-    access-key-id: LTAI5t94aXasdsmLrKpoEtv2
-    access-key-secret: DTh2SZLIouvEq7TVYHY5MKZIJ4lt8C
-    bucket-name: sky-itcast-forstudy
+    access-key-id: 
+    access-key-secret: 
+    bucket-name: 
   wechat:
-    appid: wx3a00657cf21cb5d2
-    secret: a092815d7222f64e047e5789eb7da8f5
+    appid: 
+    secret: 
